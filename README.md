@@ -3,21 +3,18 @@
 |:----:|
 
 ## About Me
-#### - 👀 I’m interested in linux
+### - 👀 I’m interested in linux
 #### - 🌱 I’m currently learning webD
-#### - 💞️ I’m looking to collaborate on ...
+###### - 💞️ I’m looking to collaborate on ...
 
 
 ## Software and Technology 
 
-| <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux Badge"> |
-|:----:| 
+|<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux Badge"> |<img src="https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=fff&style=for-the-badge" alt="openSUSE Badge"> | ![KDE Badge](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=fff&style=for-the-badge) |
+|:--:|:--|:--|
 
-|<img src="https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=fff&style=for-the-badge" alt="openSUSE Badge"> |
-|:--:|
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge"> ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge) 
 
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge"> ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-----
 
 ## I am on
 [![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/rajnishyaduvanshi)
